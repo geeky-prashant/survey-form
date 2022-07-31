@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Survey Form</h2>
-In this project, I have build a survey form to collect data from users, <br />The project is built using HTML5.
+In this project, I have build a survey form to collect data from users, The project is built using HTML5.
 
   <a href="https://geeky-prashant.github.io/survey-form/"><strong>➥ Live Demo</strong></a>
 
